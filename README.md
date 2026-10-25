@@ -33,7 +33,7 @@ I start by understanding why a feature matters and how people use it. Experience
 
 ## How I work and learn
 
-I follow code, SQL, and data state to understand a problem before changing it. I pay attention to failure conditions and downstream effects, ask about what I do not understand, and leave findings that someone else can use to continue the work.
+I break down difficult problems and trace service logic, SQL, and data state. When I cannot resolve a point on my own, I ask operations and development colleagues and share my findings and open questions. I try to communicate what I have checked and what still needs attention in time for others to decide on the next step.
 
 My blog is a personal learning journal: a way to study consistently and build stronger IT foundations. I explore concepts and how things work through examples, with Java/Spring and databases at the center and Linux, networking, cloud, web, AI, and computer science alongside them. I distinguish what I have verified from what I am still learning.
 
