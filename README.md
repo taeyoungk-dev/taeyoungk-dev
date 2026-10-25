@@ -46,5 +46,5 @@ My blog is a personal learning journal: a way to study consistently and build st
 ## Find me
 
 - [Full profile](https://www.taeyoungkim.dev/en/profile)
-- [Learning journal · English](https://www.taeyoungkim.dev/en) / [한국어](https://www.taeyoungkim.dev/ko)
+- [Learning journal](https://www.taeyoungkim.dev/en)
 - [LinkedIn](https://www.linkedin.com/in/taeyoung-kim-9b743140b/)
